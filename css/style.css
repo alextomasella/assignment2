@@ -87,3 +87,13 @@ p {
   color: crimson;
   background-color: lightgreen;
 }
+
+#lists {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+#well_known, #benefits_trainers {
+  flex: 1;
+}
