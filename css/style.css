@@ -5,6 +5,12 @@ h3 {
   font-size: 30px;
   text-align: center;
 }
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
 body {
   background-color: #f2f4f7;
 }
@@ -18,4 +24,66 @@ img {
   border-radius: 8px;
   display: block;
   margin: auto;
+}
+
+.blue {
+  color: blue;
+}
+
+.subheader {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+.button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.types {
+  list-style-type: square;
+}
+
+.page2_content {
+  margin: 20px;
+  background-color: white;
+  text-align: center;
+}
+
+.trainers {
+  list-style-type: circle;
+  text-align: left;
+  display: inline-block;
+  color: blue;
+}
+
+.benefits {
+  list-style-type: square;
+  text-align: left;
+  color: blue;
+}
+
+#types_training {
+  list-style-type: square;
+  text-align: left;
+  color: crimson;
+  background-color: lightblue;
+}
+
+#nasm_opt {
+  list-style-type: square;
+  text-align: left;
+  color: crimson;
+  background-color: lightgreen;
 }
