@@ -88,3 +88,10 @@ p {
 #well_known, #benefits_trainers {
   flex: 1;
 }
+
+@media (max-width: 600px) {
+  body {
+    font-size: 10px;
+    padding: 10px;
+  }
+}
