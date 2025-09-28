@@ -2,8 +2,9 @@ header {background-color: mistyrose;
   text-align: center;
 }
 
-
-
+body {
+  background-color: lightyellow;
+}
 
 * {
   font-family: sans-serif;
